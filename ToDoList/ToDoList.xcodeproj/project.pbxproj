@@ -13,6 +13,7 @@
 		EB93D6F428FFD1310024F347 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB93D6F228FFD1310024F347 /* Main.storyboard */; };
 		EB93D6F628FFD1320024F347 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB93D6F528FFD1320024F347 /* Assets.xcassets */; };
 		EB93D6F928FFD1320024F347 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB93D6F728FFD1320024F347 /* LaunchScreen.storyboard */; };
+		EB93D701290038070024F347 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB93D700290038070024F347 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB93D6F528FFD1320024F347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB93D6F828FFD1320024F347 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB93D6FA28FFD1320024F347 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB93D700290038070024F347 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EB93D6EC28FFD1310024F347 /* AppDelegate.swift */,
 				EB93D6EE28FFD1310024F347 /* SceneDelegate.swift */,
 				EB93D6F028FFD1310024F347 /* ViewController.swift */,
+				EB93D700290038070024F347 /* File.swift */,
 				EB93D6F228FFD1310024F347 /* Main.storyboard */,
 				EB93D6F528FFD1320024F347 /* Assets.xcassets */,
 				EB93D6F728FFD1320024F347 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB93D6F128FFD1310024F347 /* ViewController.swift in Sources */,
+				EB93D701290038070024F347 /* File.swift in Sources */,
 				EB93D6ED28FFD1310024F347 /* AppDelegate.swift in Sources */,
 				EB93D6EF28FFD1310024F347 /* SceneDelegate.swift in Sources */,
 			);
